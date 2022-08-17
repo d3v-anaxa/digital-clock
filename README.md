@@ -1,4 +1,4 @@
-## Snowfall Website
+## Digital Clock
 
 - Clone the repo in local machine 
 
@@ -9,7 +9,7 @@ git clone https://github.com/d3v-anaxa/digital-clock.git
 - Move to the cloned directory
 
 ```sh
-cd snowfall-website
+cd digital-clock
 ```
 - Open the ```index.html``` file
 
